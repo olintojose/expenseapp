@@ -1,0 +1,26 @@
+
+[19-Jun-2021 18:53:51 Europe/Berlin] Inicio de aplicacion web!
+[19-Jun-2021 18:53:51 Europe/Berlin] APP::construct-> no hay controlador especificado
+[19-Jun-2021 18:53:51 Europe/Berlin] Login::contruct -> Inicio de Login
+[19-Jun-2021 18:53:55 Europe/Berlin] Inicio de aplicacion web!
+[19-Jun-2021 18:53:55 Europe/Berlin] APP::construct-> no hay controlador especificado
+[19-Jun-2021 18:53:55 Europe/Berlin] Login::contruct -> Inicio de Login
+[19-Jun-2021 18:53:55 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "Success" not found in C:\xampp\htdocs\expenses\classes\successmessages.php:24
+Stack trace:
+#0 C:\xampp\htdocs\expenses\libs\view.php(37): SuccessMessages->__construct()
+#1 C:\xampp\htdocs\expenses\libs\view.php(19): View->handleSuccess()
+#2 C:\xampp\htdocs\expenses\libs\view.php(10): View->handleMessages()
+#3 C:\xampp\htdocs\expenses\controllers\login.php(9): View->render('login/index')
+#4 C:\xampp\htdocs\expenses\libs\app.php(18): Login->render()
+#5 C:\xampp\htdocs\expenses\index.php(23): App->__construct()
+#6 {main}
+  thrown in C:\xampp\htdocs\expenses\classes\successmessages.php on line 24
+[19-Jun-2021 19:00:48 Europe/Berlin] Inicio de aplicacion web!
+[19-Jun-2021 19:00:48 Europe/Berlin] APP::construct-> no hay controlador especificado
+[19-Jun-2021 19:00:48 Europe/Berlin] Login::contruct -> Inicio de Login
+[19-Jun-2021 19:05:38 Europe/Berlin] Inicio de aplicacion web!
+[19-Jun-2021 19:05:38 Europe/Berlin] APP::construct-> no hay controlador especificado
+[19-Jun-2021 19:05:38 Europe/Berlin] Login::contruct -> Inicio de Login
+[19-Jun-2021 19:43:27 Europe/Berlin] Inicio de aplicacion web!
+[19-Jun-2021 19:43:27 Europe/Berlin] APP::construct-> no hay controlador especificado
+[19-Jun-2021 19:43:27 Europe/Berlin] Login::contruct -> Inicio de Login
