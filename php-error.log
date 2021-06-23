@@ -24,3 +24,12 @@ Stack trace:
 [19-Jun-2021 19:43:27 Europe/Berlin] Inicio de aplicacion web!
 [19-Jun-2021 19:43:27 Europe/Berlin] APP::construct-> no hay controlador especificado
 [19-Jun-2021 19:43:27 Europe/Berlin] Login::contruct -> Inicio de Login
+[20-Jun-2021 05:32:42 Europe/Berlin] Inicio de aplicacion web!
+[20-Jun-2021 05:32:42 Europe/Berlin] APP::construct-> no hay controlador especificado
+[20-Jun-2021 05:32:42 Europe/Berlin] Login::contruct -> Inicio de Login
+[21-Jun-2021 17:27:00 Europe/Berlin] Inicio de aplicacion web!
+[21-Jun-2021 17:27:00 Europe/Berlin] APP::construct-> no hay controlador especificado
+[21-Jun-2021 17:27:00 Europe/Berlin] Login::contruct -> Inicio de Login
+[22-Jun-2021 12:07:52 Europe/Berlin] Inicio de aplicacion web!
+[22-Jun-2021 12:07:52 Europe/Berlin] APP::construct-> no hay controlador especificado
+[22-Jun-2021 12:07:52 Europe/Berlin] Login::contruct -> Inicio de Login
